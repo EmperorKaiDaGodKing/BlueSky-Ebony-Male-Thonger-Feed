@@ -1,0 +1,9 @@
+{
+  "required_pattern": "(?i)(underwear|micro[- ]underwear).*(18\\+|adult)|(18\\+|adult).*(underwear|micro[- ]underwear)",
+  "blacklist_pattern": "(?i)\\b(rape|bestiality|illegal|underage|minor)\\b",
+  "behavior": [
+    "Require alt text to include an underwear token and an explicit age confirmation (18+ or adult) for images to be shown without collapse.",
+    "If alt text matches blacklist_pattern -> always block and flag for review.",
+    "If alt text missing -> demote/collapse when post appears adult or sensitive."
+  ]
+}

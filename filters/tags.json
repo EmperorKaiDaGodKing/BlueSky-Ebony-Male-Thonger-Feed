@@ -1,0 +1,33 @@
+{
+  "whitelist": [
+    "#MensUnderwear",
+    "#MicroBriefs",
+    "#MensLingerie",
+    "#ThongsForMen",
+    "#UnderwearLifestyle",
+    "#UnderwearCommunity",
+    "#Seinen",
+    "#Josei",
+    "#MatureAnime",
+    "#programming",
+    "#100DaysOfCode",
+    "#BlackCreators",
+    "#BlackMen"
+  ],
+  "blacklist": [
+    "#politics",
+    "#election",
+    "#vote",
+    "#maga",
+    "#trump",
+    "#biden",
+    "#church",
+    "#pray",
+    "#jesus",
+    "#god",
+    "#bible",
+    "#follow4follow",
+    "#freefollowers",
+    "#giveaway"
+  ]
+}
