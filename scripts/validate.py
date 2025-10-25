@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+    #!/usr/bin/env python3  
 """
 Simple validator to test post metadata against filters.
 Usage: python3 scripts/validate.py
