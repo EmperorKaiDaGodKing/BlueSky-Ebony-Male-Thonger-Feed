@@ -1,0 +1,12 @@
+# Python artifacts
+__pycache__/
+*.pyc
+.env
+
+# Local editor files
+.vscode/
+*.swp
+.DS_Store
+
+# Do not store explicit media here
+media/

@@ -1,0 +1,9 @@
+{
+  "allow_pattern": "(?i)\\b(micro|micro[- ]briefs|thong|g[- ]string|low[- ]rise|hip briefs|bikini bottom|underwear|lingerie|underwear lifestyle|photoshoot|styling|seinen|josei|anime|programming|100daysofcode|webdev|black creator|black photographer)\\b",
+  "block_pattern": "(?i)\\b(politics|election|vote|trump|biden|church|pray|jesus|god|follow4follow|freefollowers|giveaway)\\b",
+  "rules": [
+    "If description matches block_pattern -> mark as BLOCKED/DEMOTED",
+    "Else if description matches allow_pattern and age token present -> mark as ALLOWED (subject to client sensitive settings)",
+    "Else -> mark as NEUTRAL (demote images if adult and no age token)"
+  ]
+}
