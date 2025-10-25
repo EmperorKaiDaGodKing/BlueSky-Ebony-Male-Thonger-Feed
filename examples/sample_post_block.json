@@ -1,10 +1,10 @@
-{   
-  "id": "sample_block_001",
-  "author": "@example_politico",
-  "display_name": "CivicVoice",
-  "tags": ["#politics", "#election"],
-  "description": "Local election discussion and candidate endorsements.",
-  "alt_text": "",
-  "created_with": "Web",
-  "age_gated": false
-}
+    {   
+      "id": "sample_block_001",
+     "author": "@example_politico",
+     "display_name": "CivicVoice",
+     "tags": ["#politics", "#election"],
+      "description": "Local election discussion and candidate endorsements.",
+      "alt_text": "",
+      "created_with": "Web",
+      "age_gated": false
+    }
